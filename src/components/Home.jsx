@@ -33,11 +33,11 @@ function Home() {
                 </Col>
                 <Col md={4}>
                     <Card style={{ marginBottom: '30px' }}>
-                        <Card.Img src="/images/pizaa.jpg" style={{ height: '270px' }} />
+                        <Card.Img src="/images/nonveg.jpg" style={{ height: '270px' }} />
                         <Card.Body>
-                            <Card.Title>Pizza</Card.Title>
+                            <Card.Title>Non-Veg</Card.Title>
                             <Card.Text>
-                                Here's some Pizza
+                                Here's some Non Veg Items
                             </Card.Text>
                             <div className="d-flex justify-content-between">
                                 <Button className="ms-3">View Details</Button>
@@ -48,11 +48,11 @@ function Home() {
                 </Col>
                 <Col md={4}>
                     <Card style={{ marginBottom: '30px' }}>
-                        <Card.Img src="/images/burger.jpg" />
+                        <Card.Img src="/images/veg.jpg" />
                         <Card.Body>
-                            <Card.Title>Burger</Card.Title>
+                            <Card.Title>Veg</Card.Title>
                             <Card.Text>
-                                Here's some Burger
+                                Here's some Veg Items
                             </Card.Text>
                             <div className="d-flex justify-content-between">
                                 <Button className="ms-3">View Details</Button>
