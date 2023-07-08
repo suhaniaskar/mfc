@@ -18,7 +18,7 @@ function Home() {
 
                 <Col md={4}>
                     <Card style={{ marginBottom: '30px' }}>
-                        <Card.Img src="/images/food1.jpg" style={{ height: '270px' }}  />
+                        <Card.Img src="/images/food1.jpg" style={{ height: '270px'}}  />
                         <Card.Body>
                             <Card.Title>Family Meal</Card.Title>
                             <Card.Text>
